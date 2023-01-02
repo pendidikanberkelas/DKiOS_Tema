@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+Order<?xml version="1.0" encoding="UTF-8"?>
 
 
 <themes>
 <data Xml="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Themes/main/Xml/" Wall="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Themes/main/Wall/" Screen="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Themes/main/Screen/"/>
 <theme>
 <title>Dark Mode</title>
-<date>27/11/2022</date>
+<date>27/11/2023</date>
 <theme>
 <title>Light Mode</title>
 <date>27/11/2022</date>
-<theme>
-<title>Light Mode_New</title>
-<date>29/12/2022</date>
 </theme>
