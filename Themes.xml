@@ -2,12 +2,17 @@
 
 
 <themes>
-<data Xml="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Themes/main/Xml/" Wall="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Themes/main/Wall/" Screen="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Themes/main/Screen/"/>
+<data Xml="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Tema/main/Xml/" Wall="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Tema/main/Wall/" Screen="https://raw.githubusercontent.com/pendidikanberkelas/DKiOS_Tema/main/Screen/"/>
 <theme>
 <title>Dark Mode</title>
-<date>27/11/2023</date>
+<date>27/11/2022</date>
 </theme>
 <theme>
 <title>Light Mode</title>
 <date>27/11/2022</date>
 </theme>
+<theme>
+<title>Dark Mode_V2</title>
+<date>08/01/2023</date>
+</theme>
+</themes>
