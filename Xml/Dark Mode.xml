@@ -67,7 +67,7 @@
     <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
     <int name="key_counter_bg" value="13770324" />
     <int name="MiyaDilepasMontoonBercanda" value="-13744558" />
-    <int name="ModChatColor" value="-15724528" />
+    <int name="ModChatColor" value="-16777216" />
     <boolean name="kota_an_njero_Gactive" value="false" />
     <boolean name="hide_translation_icon" value="true" />
     <boolean name="webpage_sultanmods" value="false" />
@@ -127,6 +127,7 @@
     <int name="date_right_color" value="-11625312" />
     <boolean name="emojipopup_body_Gactive" value="false" />
     <boolean name="NameProf" value="false" />
+    <boolean name="tolbarkecil" value="false" />
     <boolean name="KuKuKuntulKuntulAnying_Gactive" value="false" />
     <boolean name="ModChaSendBKColor_Gactive" value="false" />
     <boolean name="cevronDrawer_Gactive" value="false" />
@@ -169,7 +170,7 @@
     <boolean name="emojipopup_icons_Gactive" value="false" />
     <int name="emojipopup_header" value="-15263977" />
     <int name="ModChatGStatusB" value="-15263977" />
-    <int name="HomeBarText" value="-15885723" />
+    <int name="HomeBarText" value="-13328130" />
     <boolean name="yoTostC_Gactive" value="false" />
     <boolean name="imsHideRStatus" value="false" />
     <boolean name="tittle_bold" value="false" />
@@ -370,7 +371,7 @@
     <int name="row_resizer" value="0" />
     <int name="Text_nama" value="-16777216" />
     <boolean name="enable_ig_stories" value="false" />
-    <int name="ModConPickColor" value="-15724528" />
+    <int name="ModConPickColor" value="-16777216" />
     <boolean name="SearchViw_Gactive" value="false" />
     <boolean name="MiyaDilepasMontoonBercanda_Gactive" value="false" />
     <string name="key_story_view">4</string>
