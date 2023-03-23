@@ -14,7 +14,7 @@
     <int name="HomeText" value="-16777216" />
     <int name="ikonDrawer" value="-16579837" />
     <boolean name="sultanmods" value="false" />
-    <boolean name="Conv_call_btn" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
     <boolean name="ModFabTextColor_Gactive" value="false" />
     <int name="attachCiat" value="-16416001" />
     <int name="statuses_bar_bg_picker_GC" value="-263173" />
@@ -67,7 +67,7 @@
     <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
     <int name="key_counter_bg" value="13770324" />
     <int name="MiyaDilepasMontoonBercanda" value="-13744558" />
-    <int name="ModChatColor" value="-16777216" />
+    <int name="ModChatColor" value="-15263977" />
     <boolean name="kota_an_njero_Gactive" value="false" />
     <boolean name="hide_translation_icon" value="true" />
     <boolean name="webpage_sultanmods" value="false" />
@@ -137,6 +137,7 @@
     <boolean name="chat_mypicV2" value="false" />
     <int name="ModConTextColor" value="-7697778" />
     <boolean name="key_with_thumb" value="true" />
+    <boolean name="disableDTTL" value="false" />
     <int name="attachbg" value="-15263977" />
     <boolean name="chats_date_pending_color_picker_Gactive" value="false" />
     <int name="key_badge_size" value="46" />
@@ -179,7 +180,7 @@
     <boolean name="hiden_storywa" value="false" />
     <int name="statuses_bar_text_picker" value="-7697778" />
     <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
-    <boolean name="isSwipeEnabledV2" value="true" />
+    <boolean name="isSwipeEnabledV2" value="false" />
     <boolean name="attachbg_Gactive" value="false" />
     <boolean name="hiden_kamera" value="false" />
     <int name="status_nw" value="-12280833" />
@@ -205,6 +206,7 @@
     <boolean name="group_participants_picV2" value="false" />
     <boolean name="Text_Nama_Gactive" value="false" />
     <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <boolean name="grpAdmin_enabled" value="true" />
     <int name="arc_hc" value="-13328129" />
     <boolean name="ig_story_Gactive" value="false" />
     <boolean name="attachCiat_Gactive" value="false" />
@@ -282,7 +284,7 @@
     <int name="ModConColor" value="-15263977" />
     <boolean name="chats_show_contact_online_toast_check" value="true" />
     <boolean name="key_tab_unselect_menu_Gactive" value="false" />
-    <string name="tick_style">stockorg</string>
+    <string name="tick_style">rcios11</string>
     <boolean name="chats_show_contact_online_toast_check_" value="false" />
     <int name="tabindicator" value="-13328129" />
     <string name="info_kontak_style">0</string>
@@ -349,7 +351,7 @@
     <boolean name="PicProf" value="false" />
     <int name="chat_icon_forward_picker" value="-1" />
     <boolean name="hiden_group" value="false" />
-    <string name="bubble_style">cvios</string>
+    <string name="bubble_style">apple</string>
     <boolean name="ModChatColor_Gactive" value="false" />
     <boolean name="cevronChat_Gactive" value="false" />
     <boolean name="h_ms_s" value="false" />
@@ -386,7 +388,7 @@
     <boolean name="e2e_bubble_color_picker_Gactive" value="false" />
     <boolean name="custom_wall" value="false" />
     <boolean name="auto_disabled" value="true" />
-    <boolean name="Conv_call_btns" value="false" />
+    <boolean name="Conv_call_btns" value="true" />
     <boolean name="elapsed_time" value="false" />
     <int name="btn_voice_color_chat_picker" value="-908929575" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
